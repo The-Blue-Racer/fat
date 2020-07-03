@@ -1,7 +1,8 @@
 # Fat Version
 
-The work is currently under-construction!
+By Damir Olejar
 
+----------
 This is a fat version of all the components put together to create a working backend mirco-framework for Java.
 The reason why I am doing this is to share the knowledge I have accummulated over a decade working as a developer. I would like to address some of the most common issues with the Java micro-frameworks, and offer a solution combining several technologies into a functioning whole, without reinventing the wheel.
 
